@@ -1,0 +1,10 @@
+C:\Users\jeremy\Desktop\C#\Projet_Cavalier\Projet_Cavalier\Cavalier\bin\Debug\Cavalier.exe.config
+C:\Users\jeremy\Desktop\C#\Projet_Cavalier\Projet_Cavalier\Cavalier\bin\Debug\Cavalier.exe
+C:\Users\jeremy\Desktop\C#\Projet_Cavalier\Projet_Cavalier\Cavalier\bin\Debug\Cavalier.pdb
+C:\Users\jeremy\Desktop\C#\Projet_Cavalier\Projet_Cavalier\Cavalier\obj\Debug\Cavalier.csprojAssemblyReference.cache
+C:\Users\jeremy\Desktop\C#\Projet_Cavalier\Projet_Cavalier\Cavalier\obj\Debug\Cavalier.Form1.resources
+C:\Users\jeremy\Desktop\C#\Projet_Cavalier\Projet_Cavalier\Cavalier\obj\Debug\Cavalier.Properties.Resources.resources
+C:\Users\jeremy\Desktop\C#\Projet_Cavalier\Projet_Cavalier\Cavalier\obj\Debug\Cavalier.csproj.GenerateResource.cache
+C:\Users\jeremy\Desktop\C#\Projet_Cavalier\Projet_Cavalier\Cavalier\obj\Debug\Cavalier.csproj.CoreCompileInputs.cache
+C:\Users\jeremy\Desktop\C#\Projet_Cavalier\Projet_Cavalier\Cavalier\obj\Debug\Cavalier.exe
+C:\Users\jeremy\Desktop\C#\Projet_Cavalier\Projet_Cavalier\Cavalier\obj\Debug\Cavalier.pdb
